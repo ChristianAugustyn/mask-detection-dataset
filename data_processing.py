@@ -1,5 +1,5 @@
 import os, cv2, numpy
-from keras.utils as ku 
+import keras.utils as ku 
 
 path = 'data'
 size = 100
